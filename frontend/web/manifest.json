@@ -1,0 +1,12 @@
+{
+  "name": "Truck & Trailer Repair",
+  "short_name": "Truck Repair",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7f9",
+  "theme_color": "#256f68",
+  "description": "Truck and trailer repair workflow app.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
