@@ -1,6 +1,7 @@
 from pydantic import BaseModel, EmailStr
 
-from models.user import UserRole
+from ..models.user import UserRole
+
 
 class SignupRequest(BaseModel):
     username: str
